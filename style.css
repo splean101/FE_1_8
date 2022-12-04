@@ -9,7 +9,7 @@ a {
   font-size: 18px;
 }
 section {
-  width: 1150px;
+  max-width: 1150px;
 }
 .first-screen {
   background-image: url('./background.jpg');
@@ -147,7 +147,7 @@ h5 {
   padding: 5px;
 }
 .border-5px {
-  border: 1px solid fff;
+  border: 1px solid #fff;
   border-radius: 10px;
 }
 .flex-card-number {
